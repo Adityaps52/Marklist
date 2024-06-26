@@ -1,3 +1,4 @@
+
 function gradecalculation(){
     let s1 = document.getElementById("odia").value;
     let s2 = document.getElementById("eng").value;
@@ -19,8 +20,8 @@ function gradecalculation(){
     
     if(pr>90) grade = "A";
     else if(pr<90 && pr>70) grade = "B";    
-    else if(pr<70&& pr>50) grade = "C";
-    else if(pr<50&& pr>35) grade = "D";
+    else if(pr<70 && pr>50) grade = "C";
+    else if(pr<50 && pr>35) grade = "D";
     else grade = "F";
        
 

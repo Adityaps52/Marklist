@@ -1,0 +1,21 @@
+.container{
+    border: 5px solid red;
+}
+.row{
+    /* border: 1px solid black; */
+    height: 100px;
+}
+#Aditya{
+    background-color: black;
+}
+#Pallabi{
+    background-color: white;
+}
+body::backdrop {
+    font-family: Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+  }
+  

@@ -1,0 +1,66 @@
+.container{
+    /* border: 8px solid red; */
+    
+}
+.row{
+    /* border: 1px solid black; */
+}
+.col{
+    /* border: 1px solid black; */
+}
+.clock{
+    background-color: blue;
+    color: aliceblue;
+    margin: 2px;
+}
+#top{
+    background-color: aqua;
+    padding: 10px 0 10px 10px;
+}
+#menu{
+    background-color: pink;
+    padding: 3px 0;
+}
+#menu ul{
+    list-style: none;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+}
+#content{
+    background-color: beige;
+}
+#sidebar{
+    background-color: skyblue;
+}
+#fooder{
+    background-color: aqua;
+}
+#palu1{
+    background-color: #80ed99;
+}
+#palu{
+    background-color: #c8b6ff;
+}
+#aru{
+    background-color: aquamarine;
+}
+#aru1{
+    background-color: #7400b8;
+}
+#aru2{
+    background-color: #fff3b0;
+}
+#aru3{
+    background-color: #84a98c;
+}
+#kuna{
+    border: 5px solid black;
+}
+#black{
+    background-color: black;
+}
+#white{
+    background-color: white;
+}
